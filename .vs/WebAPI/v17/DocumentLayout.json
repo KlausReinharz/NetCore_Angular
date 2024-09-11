@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|c:\\users\\alexa\\onedrive\\escritorio\\c#\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E999ADC-DADA-4B44-927E-C9572199509F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:01:01.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:59:18.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:55:56.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:04:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T00:03:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T23:57:32.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\Models\\Empleado.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:53:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Escritorio\\C#\\WebAPI\\WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:07:54.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
